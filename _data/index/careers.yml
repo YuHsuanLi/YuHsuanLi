@@ -1,0 +1,30 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Tron Future Tech
+    i18n: company_a
+  desc:
+    detail: Work on camera controlling and calibration, image processing and artificial intelligence algorithms design
+    i18n: company_a_desc
+  date:
+    detail: Feb. 2022
+    i18n: company_a_date
+  job:
+    detail: Senior Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: National Yang Ming Chiao Tung University
+    i18n: company_b
+  desc:
+    detail: Worked with Dr.Wei-Chen Chiu, Dr. Pin-Yu Chen and Dr.Ching-Chun Huang to propose zero-shot learning for attributes and develop a novel decompose-and-reassemble approach to automatically annotate attribute labels for the zero-shot classification datasets.
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2020
+    i18n: company_b_date
+  job:
+    detail: Master Student
+    i18n: company_b_job
+  icon: fa-plus-square

@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Machine Learing, Zero-shot Learning, Incremental learning, Computer Vision, Python, Matlab, C/C++, JavaScript, Verilog, Blender, Docker, k6
+percentage: 85, 85, 80, 85, 85, 70, 70, 70, 65, 70, 65, 75

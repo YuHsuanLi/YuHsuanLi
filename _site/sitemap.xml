@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/html/2017/12/21/test-code-snippets.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</loc>
+    </url>
+
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/blog/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/static/css/custom.css</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/database/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/donate/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/feed.xml</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/html/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/life/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/linux/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/mac/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/python/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/robots.txt</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/search.json</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/sitemap.xml</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/YuHsuanLi/assets/css/style.css</loc>
+    </url>
+
+</urlset>
