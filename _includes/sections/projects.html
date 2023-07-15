@@ -22,13 +22,32 @@
                   <h4>
                   {% if project.url %}
                   <a href="{{ project.url }}" target="_blank"><span class="navy">{{ project.name }}</span></a>
+        
                   {% elsif project.repo %}
                   <a href="https://github.com/{{ project.gh_user }}/{{ project.repo }}" target="_blank"><span class="navy">{{ project.name }}</span></a>
                   {% else %}
                   <span class="navy">{{ project.name }}</span>
                   {% endif %}
+                  <br>
+                  {% if project.github %}
+                  <!-- <a href="{{ project.github }}" target="_blank"><span class="navy">{{ "github" }}</span></a>  -->
+                  <a href="{{ project.github }}" target="_blank"><span color="#7F5A58">{{ "| github " }}</span></a>
+                  {% endif %}
+                  {% if project.project_page %}
+                  <a href="{{ project.project_page }}" target="_blank"><span color="#7F5A58">{{ "| project page " }}</span></a>
+                  {% endif %}
+                  {% if project.paper %}
+                  <a href="{{ project.paper }}" target="_blank"><span color="#7F5A58">{{ "| paper " }}</span></a>
+                  {% endif %}
+                  {% if project.poster %}
+                  <a href="{{ project.poster }}" target="_blank"><span color="#7F5A58">{{ "| poster " }}</span></a>
+                  {% endif %}
+                  {% if project.report %}
+                  <a href="{{ project.report }}" target="_blank"><span color="#7F5A58">{{ "| report " }}</span></a>
+                  {% endif %}
                   </h4>
                   <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
+                  
                   {% if project.repo %}
                   <div user="{{ project.gh_user }}" repo="{{ project.repo }}" class="ghbtn">
                       <a target="_blank" style="width: 65px;" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/stargazers" class="btn btn-white btn-xs star"><i class="fa fa-star"></i> ...</a>&emsp;&emsp;
