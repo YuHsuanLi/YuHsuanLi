@@ -49,5 +49,11 @@
 - name: Music Accompaniment
   i18n: music_accompaniment
   poster:  https://drive.google.com/file/d/1ndXZCZ2KNJUiaNgv3o7hPOEmsa9guSW9/view?usp=share_link
+  slides: https://drive.google.com/file/d/1W-ajZOUIytGr5-UGUStZFeHQufoYh97v/view?usp=share_link
   desc: This project represents an innovative approach to music accompaniment generation for singing. Through extensive research, we have developed a novel method that involves transforming music waves into spectrograms. Additionally, we employ a Conditional Variational Autoencoder (CVAE) structure to disentangle the spectrogram, utilizing vocal information as a condition.
   # We develop a novel method on music accompaniment generation of singing by transferring music wave to spectrogram and then utilzing CVAE structure to disentangle the spectrogram with vocal information as the condition.
+
+- name: Fish Tracking
+  i18n: fish_tracking
+  github: https://github.com/YuHsuanLi/fish_tracking
+  desc: This project was undertaken in collaboration with Dr. Chang-Chieh Cheng and Dr. Yi-Bing Lin, with the objective of enhancing the IoTtalk system. Our primary focus was on developing a new functionality that incorporated an object detection model to accurately identify the location of pets. This innovative feature enables pet owners to conveniently monitor their pets remotely. 

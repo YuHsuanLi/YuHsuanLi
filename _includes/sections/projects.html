@@ -45,6 +45,9 @@
                   {% if project.report %}
                   <a href="{{ project.report }}" target="_blank"><span color="#7F5A58">{{ "| report " }}</span></a>
                   {% endif %}
+                  {% if project.slides %}
+                  <a href="{{ project.slides }}" target="_blank"><span color="#7F5A58">{{ "| slides " }}</span></a>
+                  {% endif %}
                   </h4>
                   <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
                   
