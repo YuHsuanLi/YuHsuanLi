@@ -20,7 +20,7 @@ author:  # change following line to your infomation.
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: evali890227@gmail.com  # Leave blank if you don't have now
-  cv: https://drive.google.com/file/d/1FNLyM8h1ECraeHAEG8mirHds_LDlaowM/view?usp=share_link #https://yuhsuanli.github.io/YuHsuanLi/static/assets/pdf/cv.pdf #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://drive.google.com/file/d/1jnBl7kNUoEjLnjb033hvlb3sIJg62J7U/view?usp=share_link #https://yuhsuanli.github.io/YuHsuanLi/static/assets/pdf/cv.pdf #http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
